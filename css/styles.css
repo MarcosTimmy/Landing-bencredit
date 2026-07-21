@@ -89,7 +89,7 @@ p {
 }
 
 .nav-wrap {
-  min-height: 76px;
+  min-height: 95px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -351,8 +351,8 @@ p {
 
 
 .logo {
-  height: 60px;
-  width: 180px;
+  width: 260px;
+  height: auto;
   display: block;
 }
 
